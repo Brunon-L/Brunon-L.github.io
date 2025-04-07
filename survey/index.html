@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Page Title Here</title>
+    <!-- Link to the external CSS file -->
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+    <h1 id="title">Brunon's Survey Form</h1>
+    <p id="description">Taco Survey</p
+    <form id="survey-form">
+
+      <div class="field">
+        <label id="name-label" for="name">Name</label>
+        <input id="name" required type="text" placeholder="Enter your name">
+      </div>
+
+      <div class="field">
+        <label id="email-label" for="email">Email</label>
+        <input id="email" required type="email" placeholder="Enter your Email">
+      </div>
+
+      <div class="field">
+        <label for="dropdown">Why Do you love tacos?</label>
+        <select id="dropdown" required>
+          <option disabled>Flavor</option>
+          <option>Crunch</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label id="number-label" for="number">Number of tacos eaten today?</label>
+        <input id="number" type="number" placeholder="Tacos" min="100" max="1000">
+      </div>
+
+    </form>
+  </body>
+</html>
