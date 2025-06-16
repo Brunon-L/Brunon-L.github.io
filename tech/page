@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>How to Make a PB&J</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav id="navbar">
+    <header>PB&J Documentation</header>
+    <a class="nav-link" href="#Introduction">Introduction</a>
+    <a class="nav-link" href="#Ingredients">Ingredients</a>
+    <a class="nav-link" href="#Tools">Tools</a>
+    <a class="nav-link" href="#Steps">Steps</a>
+    <a class="nav-link" href="#Extras">Extras</a>
+  </nav>
+
+  <main id="main-doc">
+    <section class="main-section" id="Introduction">
+      <header>Introduction</header>
+      <p>The peanut butter and jelly sandwich is a basic meal that many people enjoy. </p>
+      <p>It is important to follow each step carefully.</p>
+      <code>A peanut butter and jelly sandwich includes bread, peanut butter, and jelly.</code>
+      <ul>
+        <li>Simple process</li>
+        <li>Common ingredients</li>
+      </ul>
+    </section>
+
+    <section class="main-section" id="Ingredients">
+      <header>Ingredients</header>
+      <p>You only need three ingredients to make this sandwich.</p>
+      <p>Fresh ingredients will taste better.</p>
+      <code>Ingredients: peanut butter, jelly, bread.</code>
+      <ul>
+        <li>Peanut butter</li>
+        <li>Jlly</li>
+        <li>Bread</li>
+      </ul>
+    </section>
+
+    <section class="main-section" id="Tools">
+      <header>Tools</header>
+      <p>You only need a few tools to make this sandwich. The process is simple and does not require any sharp items. Clean tools prevent contamination.</p>
+      <p>Use a butter knife to spread each ingredient smoothly without damaging the bread.</p>
+      <code>A butter knife works well for spreading both ingredients.</code>
+    </section>
+
+    <section class="main-section" id="Steps">
+      <header>Steps</header>
+      <p>The process involves preparing the slices of bread and applying each spread. Follow the steps in order to avoid mess and waste. Do not use too much of either spread.</p>
+      <p>Spreading evenly makes the sandwich easier to eat.</p>
+      <code>
+        Step 1: Spread peanut butter on one slice.<br>
+        Step 2: Spread jelly on the other slice.<br>
+        Step 3: Press the slices together.
+      </code>
+      <ul>
+        <li>Place both slices of bread on a surface</li>
+        <li>Spread peanut butter on one slice</li>
+        <li>Spread jelly on the second slice</li>
+        <li>Press the slices together carefully</li>
+        <li>Cut in half if desired</li>
+      </ul>
+    </section>
+
+    <section class="main-section" id="Extras">
+      <header>Extras</header>
+      <p>This section includes extra information that can improve your experience.</p>
+      <p>Small additions can make the sandwich better without changing the main steps.</p>
+      <code>Optional: Use different breads or add a banana for more flavor.</code>
+      <ul>
+        <li>Use whole wheat bread for more fiber</li>
+        <li>Try crunchy or creamy peanut butter</li>
+        <li>Add sliced bananas</li>
+        <li>Press the sandwich firmly for clean cuts</li>
+        <li>Pack into a lunchbox if your taking it to school.</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
